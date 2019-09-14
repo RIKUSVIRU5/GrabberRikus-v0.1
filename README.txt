@@ -2,10 +2,10 @@ Do not use this tool, it's an artifact from the past. Use Burp or w3af!
 
 
 
-Grabber v0.1
+GrabberRikus v0.1
 ------------
 
-Grabber is a web application which try to be as useful as possible ie allows:
+GrabberRikus is a web application which try to be as useful as possible ie allows:
 - back box testing
 - hybrid analysis
 - javscript source code checker
@@ -17,9 +17,11 @@ For more information go to the website.
 Contact
 -------
 
-  author:  Romain Gaucher
-  website: http://rgaucher.info/beta/grabber
-  email:   r@rgaucher.info
+  author:  RIKUS VIRUS
+  website: http://RIKUSVIRUS.blogspot.com
+  email:   rikus@hex.info
+  facebook: www.facebook.com/rikusvirusx
+
 
 
 What would be cool to have/integrate (except no more bugs) ?
